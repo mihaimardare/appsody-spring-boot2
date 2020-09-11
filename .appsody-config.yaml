@@ -1,0 +1,3 @@
+id: "20200911075555.12473400"
+project-name: appsody-spring-boot2
+stack: kabanero/java-spring-boot2:0.3
